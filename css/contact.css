@@ -1,0 +1,21 @@
+.contact td {
+  width: 480px;
+}
+.contact th {
+  width: 150px;
+  height: 7rem;
+  text-align: right;
+}
+.button {
+  background: #F5B4B3;
+  font-size: 18px;
+  text-align: center;
+  color: white;
+  border: none;
+}
+.button:hover {
+  opacity: 0.5;
+}
+.button{
+  margin-left: 200px;
+}
